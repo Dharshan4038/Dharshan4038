@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharshan Raaj</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
  <h3 align="left">About Me:</h3>
  
