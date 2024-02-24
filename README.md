@@ -3,7 +3,7 @@
 
  <h3 align="left">About Me:</h3>
  
-- 🔭 I’m studying **Int MTech Computer Science in collabration with Virtusa at VIT-Vellore.**
+- 🔭 I’m studying **MTech Integrated Computer Science in collabration with Virtusa at VIT-Vellore.**
 - 👯 I’m looking to collaborate on **projects related to web development.**
 - 💬 Ask me about **Web Development or any Tech related stuffs.**
 - 📫 How to reach me **dharshand9@gmail.com**
